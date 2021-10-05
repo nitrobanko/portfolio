@@ -232,7 +232,7 @@ body {
 
 .project-img {
   width: 100%;
-  object-fit: initial;
+  object-fit: cover;
   height: 80vh;
 }
 
